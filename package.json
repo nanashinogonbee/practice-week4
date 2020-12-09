@@ -1,0 +1,7 @@
+{
+"scripts": {
+  "start": "node ./src/index.js"
+},
+  "name": "bruh",
+  "main": "./src/index.js"
+}
